@@ -8,6 +8,7 @@
 	<name>FlightSearchSpring Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<build>
+	<finalName>FlightSearchSpring</finalName>
 		<pluginManagement>
 			<plugins>
 				<plugin>
@@ -126,7 +127,4 @@
 		</dependency>
 
 	</dependencies>
-	<build>
-		<finalName>FlightSearchSpring</finalName>
-	</build>
 </project>
