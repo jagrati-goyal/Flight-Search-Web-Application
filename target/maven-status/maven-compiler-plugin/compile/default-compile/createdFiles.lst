@@ -1,0 +1,10 @@
+com\nagarro\model\User.class
+com\nagarro\model\FlightSearchParameters.class
+com\nagarro\dao\api\FileUploadDao.class
+com\nagarro\dao\FileUploadDaoImpl.class
+com\nagarro\controller\FlightSearchController.class
+com\nagarro\model\Flight.class
+com\nagarro\controller\LoginController.class
+com\nagarro\dao\api\UserDao.class
+com\nagarro\service\LoginService.class
+com\nagarro\dao\UserDaoImpl.class
