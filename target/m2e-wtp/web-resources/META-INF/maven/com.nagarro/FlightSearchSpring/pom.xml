@@ -7,11 +7,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FlightSearchSpring Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	<plugin>
+	</plugin>
 	<properties>
 		<servlet.version>4.0.0</servlet.version>
 		<spring.version>5.1.1.RELEASE</spring.version>
-		<source>1.8</source>
-		<target>1.8</target>
 	</properties>
 
 	<dependencies>
