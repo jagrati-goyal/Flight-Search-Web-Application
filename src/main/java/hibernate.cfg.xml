@@ -4,7 +4,7 @@
 		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
 	<session-factory>
-		<mapping class="com.nagarro.model.User" />
-		<mapping class="com.nagarro.model.Flight" />
+		<mapping class="com.nagarro.flightsearch.model.User" />
+		<mapping class="com.nagarro.flightsearch.model.Flight" />
 	</session-factory>
 </hibernate-configuration>
